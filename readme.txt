@@ -1,2 +1,2 @@
 Welcome to myproject
-Author: Kaushal Maurya
+Author: Kaushal Maury
