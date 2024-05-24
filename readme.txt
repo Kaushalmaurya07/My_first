@@ -1,2 +1,2 @@
-Welcome to myproject
+Welcome to git beginner myproject
 Author: Kaushal Maury
